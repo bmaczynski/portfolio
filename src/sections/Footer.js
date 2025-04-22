@@ -66,14 +66,6 @@ const Footer = () => {
                 >
                   LinkedIn
                 </a>
-                <a
-                  href="https://twitter.com/DevelopWebsites"
-                  rel="noreferrer"
-                  target="_blank"
-                  className="text-opacity-80 hover:text-opacity-100"
-                >
-                  X
-                </a>
               </div>
             </div>
             <div className="flex flex-col">
@@ -86,13 +78,6 @@ const Footer = () => {
                   className="flex items-center gap-1 text-opacity-80 hover:text-opacity-100"
                 >
                   <HiOutlinePaperAirplane /> bmaczynski11@yahoo.com
-                </a>
-                <a
-                  href="/resume.pdf"
-                  target="_blank"
-                  className="flex items-center gap-1 text-opacity-80 hover:text-opacity-100"
-                >
-                  <AiOutlineTrophy /> Resume
                 </a>
               </div>
             </div>
