@@ -1,6 +1,5 @@
 import { FaCloudsmith } from "react-icons/fa";
 import { HiOutlinePaperAirplane } from "react-icons/hi";
-import { AiOutlineTrophy } from "react-icons/ai";
 import BackToTop from "../components/BackToTop";
 
 const Footer = () => {
